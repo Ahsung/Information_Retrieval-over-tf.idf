@@ -11,3 +11,6 @@
 4. search any context in Documents
 
 ##Refer makefile...
+
+## ./printdict
+you can check inverted index Posting
