@@ -4,7 +4,6 @@
 -----------------------------------------------
 
 ## __To Use__
-----------------------------------------------------
 1. make all   ( build all cppFile )
 2. make setIR ( read documents and setting search engine )
 3. ./consult queryfile
@@ -12,5 +11,6 @@
 
 ##Refer makefile...
 
+----------------------------------------------------
 ## ./printdict
 you can check inverted index Posting
