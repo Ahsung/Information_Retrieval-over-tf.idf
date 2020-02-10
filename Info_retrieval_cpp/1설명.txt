@@ -1,0 +1,10 @@
+// B511209 최아성 
+// 파일이 양이 많아 submit이 안되서, 기존 9개 문서 형태와 
+// consult 응용프로그램을 제외하고는 모두 삭제하여 submit하였습니다.
+//
+// makefile은
+// 기존 프린트에 있는 거 외에 step5와 step6가 더 있습니다.
+// make all  은 모든 파일 컴파일을 하고 
+// make setIR   은 sort를 포함한 step1 ~ step6까지를 한번에 실행하여 필요한 파일들을 생성합니다.
+// 기본적으로 필요한 이진파일은 그대로 두고 submit하였으므로 make하지 않아도 consult는 돌아갑니다.
+// 혹시 문서를 추가하신다면 문서의 총개수는 dictionary.h 파일의 define totalDoucnment 값을 수정해주세요.

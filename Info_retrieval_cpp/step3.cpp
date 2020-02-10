@@ -32,7 +32,6 @@ void Line::NewPosting(Posting pst) {
 		capacity *= 2;
 	}
 	pArray[numposts++] = pst;
-
 }
 
 void Line::Print() {

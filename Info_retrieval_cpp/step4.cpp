@@ -72,7 +72,10 @@ int main() {
 		tm.wordpos = WordsWrite(wordsname, wout);
 		tm.poststart = PostingWrite(docnums, line_index, pout);
 		tm.numposts = docnums;
-		tm.idf = log2(double(totalDocument)/double(docnums));
+		//문서가 희귀할 수록 좋음
+		//등장한 문서수에 반비례 총 문서개수에는 비례
+		//즉 등장한 문서수가 적을 수록 좋다.
+		tm.idf = log2(double(totalDocument)/double(docnums)); 
 		DictWrite(tm, dout);
 		maxidf = max(maxidf, tm.idf);
 	}
