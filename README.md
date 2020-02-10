@@ -3,7 +3,7 @@
 ## simple search engine
 -----------------------------------------------
 
-## _To Use__
+## __To Use__
 
-1. asdf
-2. asdf
+1. make all
+2. 
