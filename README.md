@@ -11,8 +11,6 @@
 
 ***Locale sorting order must same ASCII***
 
-##Refer makefile...
-
 ----------------------------------------------------
 ## ./printdict
 you can check inverted index Posting
