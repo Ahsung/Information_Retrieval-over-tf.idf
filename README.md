@@ -9,6 +9,8 @@
 3. ./consult queryfile
 4. search any context in Documents
 
+***Locale sorting order must same ASCII***
+
 ##Refer makefile...
 
 ----------------------------------------------------
