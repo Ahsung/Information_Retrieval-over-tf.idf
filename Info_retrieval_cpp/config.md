@@ -1,4 +1,4 @@
-# config
+config
 ---------------------------------------------------------------
 
 * This Retrieval_Sys recognizes only file name in "ir.docnames"
