@@ -21,6 +21,7 @@ all:
 	make step6
 	make printdict
 	make consult
+
 setIR:
 	step1|sort|step3|step4
 	step5|sort|step6
