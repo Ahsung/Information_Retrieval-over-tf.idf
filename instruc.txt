@@ -1,5 +1,0 @@
-문서들의 총개수는
-dictionary.h의 
-#define totalDocument의 값을 수정
-
-문서들의 이름은 ir.docnames에 모두 저장해야함.
